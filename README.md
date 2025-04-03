@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/DroneDetectionProject/DDP)
+![GitHub last commit](https://img.shields.io/github/last-commit/DroneDetectionProject/DDP)
+
+
 # DDP
 
 # 🛰️ EwX: Decentralized Drone & Operator Detection
