@@ -1,4 +1,4 @@
-# EwX Drone-Mounted RF Module: Technical Specifications (v0.1)
+# EwX Drone-Mounted RF Module: Technical Specifications (v0.0)
 
 ## 📡 Purpose
 Lightweight, autonomous direction-finder for detecting and triangulating radio-emitting drone operators. Designed for swarm deployment.
