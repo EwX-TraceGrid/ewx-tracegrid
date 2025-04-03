@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/DroneDetectionProject/DDP)
+![GitHub last commit](https://img.shields.io/github/last-commit/DroneDetectionProject/DDP)
+
 # EwX: Decentralized Drone & Operator Detection
 
 A public infrastructure for real-time RF triangulation and anti-drone defense — built with Web3 principles, token governance, and community-operated swarm hardware.
