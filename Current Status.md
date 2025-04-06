@@ -1,8 +1,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/EwX-TraceGrid/ewx-tracegrid)
 ![GitHub last commit](https://img.shields.io/github/last-commit/EwX-TraceGrid/ewx-tracegrid)
 
-# EwX: Decentralized Drone & Operator Detection
-
+# 🛰️ EwX: TraceGrid
+Decentralized RF intelligence infrastructure to detect drone operators in real time. Open-source, swarm-capable, and Web3-governed.
 A public infrastructure for real-time RF triangulation and anti-drone defense — built with Web3 principles, token governance, and community-operated swarm hardware.
 
 ---
