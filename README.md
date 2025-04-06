@@ -1,6 +1,5 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/DroneDetectionProject/DDP)
-![GitHub last commit](https://img.shields.io/github/last-commit/DroneDetectionProject/DDP)
-
+![GitHub repo size](https://img.shields.io/github/repo-size/EwX-TraceGrid/ewx-tracegrid)
+![GitHub last commit](https://img.shields.io/github/last-commit/EwX-TraceGrid/ewx-tracegrid)
 
 # 🛰️ EwX: TraceGrid
 Decentralized RF intelligence infrastructure to detect drone operators in real time. Open-source, swarm-capable, and Web3-governed.
