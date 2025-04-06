@@ -1,0 +1,20 @@
+---
+name: "📚 Question or Support"
+description: "Ask a technical question or request help."
+title: "[Question] - <short description>"
+labels: [question]
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: "Question Topic"
+      placeholder: "How does triangulation work in EwX?"
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: "Context"
+      description: "What are you trying to do? Where are you stuck?"
+    validations:
+      required: false

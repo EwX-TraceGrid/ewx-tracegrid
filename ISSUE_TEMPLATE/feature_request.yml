@@ -1,0 +1,30 @@
+---
+name: "✨ Feature Request"
+description: "Suggest a feature or improvement for EwX: TraceGrid."
+title: "[Feature] - <short description>"
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: "Help us improve EwX by describing your feature idea."
+  - type: input
+    id: feature
+    attributes:
+      label: "Feature Title"
+      placeholder: "Add drone auto-calibration..."
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: "Explain the feature in detail."
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: "Benefit"
+      description: "How will this improve EwX? Who benefits?"
+    validations:
+      required: false
