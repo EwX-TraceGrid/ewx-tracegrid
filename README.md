@@ -2,9 +2,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/DroneDetectionProject/DDP)
 
 
-# DDP
-
-# 🛰️ EwX: Decentralized Drone & Operator Detection
+# 🛰️ EwX: TraceGrid
+Decentralized RF intelligence infrastructure to detect drone operators in real time. Open-source, swarm-capable, and Web3-governed.
 
 **EwX** is an open-source radio-intelligence infrastructure designed to disrupt hostile drone warfare  
 through lightweight RF-based detection and blockchain transparency.
