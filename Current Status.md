@@ -1,8 +1,8 @@
 ![Repo Size](https://img.shields.io/github/repo-size/EwX-TraceGrid/ewx-tracegrid)
+![last commit](https://img.shields.io/github/last-commit/EwX-TraceGrid/ewx-tracegrid)
 
 # 📈 Project Current Status
-
-Last Updated: ![Last Commit](https://img.shields.io/github/last-commit/EwX-TraceGrid/ewx-tracegrid)
+Last Updated: April 2025
 
 ---
 
