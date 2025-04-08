@@ -1,39 +1,55 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/EwX-TraceGrid/ewx-tracegrid)
-![GitHub last commit](https://img.shields.io/github/last-commit/EwX-TraceGrid/ewx-tracegrid)
+# EwX: TraceGrid
 
-# 🛰️ EwX: TraceGrid
-Decentralized RF intelligence infrastructure to detect drone operators in real time. Open-source, swarm-capable, and Web3-governed.
-A public infrastructure for real-time RF triangulation and anti-drone defense — built with Web3 principles, token governance, and community-operated swarm hardware.
+**Decentralized Radio Signal Intelligence (SIGINT) System for Drone & Operator Detection**  
+Empowering Peace and Security through Open-source Technology and Web3
 
----
-
-## 🧠 Architecture Overview
-
-The EwX system consists of:
-
-- Lightweight (<1 kg) drone-mounted RF detectors
-- Triangulation algorithms embedded in the firmware
-- Decentralized telemetry logging on-chain (L2)
-- DAO-based governance and EwX token utility
-- Public, trustless signal verification via IPFS and blockchain
-
-This architecture enables decentralized, survivable drone operator detection in real-time — under jamming, in active zones, and without central infrastructure.
+![Repo Size](https://img.shields.io/github/repo-size/EwX-TraceGrid/ewx-tracegrid)
+![Last Commit](https://img.shields.io/github/last-commit/EwX-TraceGrid/ewx-tracegrid)
 
 ---
 
-## 📅 Current Status
+## 🛰️ Project Overview
 
-- ✅ March 2025: Initial repository launched  
-- ✅ EwX ERC-20 token deployed: `0x07284E632b933b658011A93c6C9397C38dC4AA73` (Ethereum mainnet)  
-- ✅ Gitcoin grant application submitted and passed AI moderation  
-- ✅ Web3 site launched: [https://drone-detection-project.super.site](https://drone-detection-project.super.site)  
-- 🔄 GitHub and protocol documentation under active development  
-- 🔜 DAO governance system coming Q2 2025  
+EwX: TraceGrid is an open-source SIGINT infrastructure for real-time detection, localization, and classification of drone and operator signals on the battlefield and in urban areas. The system provides scalable tools to empower open intelligence sharing and civilian protection.
 
 ---
 
-## 🌍 Links
+## 🌐 Key Features
 
-- Gitcoin: [explorer.gitcoin.co/...](https://explorer.gitcoin.co/#/projects/0xa07a500411ae59304a87b29e7b0254294265143db97a12e2fcb103a30aac39de)  
-- Website: [https://drone-detection-project.super.site](https://drone-detection-project.super.site)
+- 📡 Monitor and triangulate drone/ground operator RF signals
+- 🛠️ Works with KrakenSDR (or other coherent SDRs)
+- 🌍 Web3-ready: DAO integration, token-gated access
+- 📱 Cloud backend + mobile frontend in progress
+- 🧠 Data fusion and classification with AI models
 
+---
+
+## 📌 Current Goals
+
+- Build and maintain a drone/ground signal monitoring software
+- Enable on-chain access to location data via EwX token
+- Complete integration with server/cloud and mobile app
+- Participate in funding via Gitcoin / Juicebox
+
+---
+
+## 👥 Team
+
+Lead by [@EwXFrontMan](https://github.com/EwXFrontMan)  
+Developed by contributors with experience in radio technologies, drone systems, server-side applications, and mobile apps.
+
+---
+
+## 🔗 Links
+
+- Website: [ewx-tracegrid.super.site](https://ewx-tracegrid.super.site/)
+- Gitcoin: [EwX TraceGrid](https://explorer.gitcoin.co/#/projects/0xa07a...)
+- Twitter: [@EWXCoin](https://twitter.com/EWXCoin)
+- Telegram: [t.me/EwXFrontMan](https://t.me/EwXFrontMan)
+
+---
+
+## 🧾 License
+
+Licensed under the GNU GPLv3.  
+Adapted and extended from [KrakenSDR](https://github.com/krakenrf/gr-krakensdr) under their open license.
