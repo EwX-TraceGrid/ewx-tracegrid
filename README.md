@@ -42,8 +42,9 @@ Developed by contributors with experience in radio technologies, drone systems, 
 
 ## 🔗 Links
 
-- Website: [ewx-tracegrid.super.site](https://ewx-tracegrid.super.site/)
+- Website: [ewx-tracegrid](https://ewx-tracegrid.super.site/)
 - Gitcoin: [EwX TraceGrid](https://explorer.gitcoin.co/#/projects/0xa07a...)
+- JuiceBox:[EwX TraceGrid](https://juicebox.money/v2/p/858)
 - Twitter: [@EWXCoin](https://twitter.com/EWXCoin)
 - Telegram: [t.me/EwXFrontMan](https://t.me/EwXFrontMan)
 
