@@ -17,7 +17,7 @@ EwX: TraceGrid is an open-source SIGINT infrastructure for real-time detection, 
 ## 🌐 Key Features
 
 - 📡 Monitor and triangulate drone/ground operator RF signals
-- 🛠️ Works with KrakenSDR (or other coherent SDRs)
+- 🛠️ Works with coherent SDRs
 - 🌍 Web3-ready: DAO integration, token-gated access
 - 📱 Cloud backend + mobile frontend in progress
 - 🧠 Data fusion and classification with AI models
@@ -43,7 +43,6 @@ Developed by contributors with experience in radio technologies, drone systems, 
 ## 🔗 Links
 
 - Website:   [ewx-tracegrid](https://ewx-tracegrid.super.site/)
-- Gitcoin:   [EwX TraceGrid](https://explorer.gitcoin.co/#/projects/0xc90da5d7dfb960c5dcd00df9f679b4357af40469d125a8ec849b853eeaaef565)
 - JuiceBox:  [EwX TraceGrid](https://juicebox.money/v2/p/858)
 - Twitter:   [@EWXCoin](https://twitter.com/EWXCoin)
 - Telegram:  [t.me/EwXFrontMan](https://t.me/EwXFrontMan)
@@ -52,5 +51,4 @@ Developed by contributors with experience in radio technologies, drone systems, 
 
 ## 🧾 License
 
-Licensed under the GNU GPLv3.  
-Adapted and extended from [KrakenSDR](https://github.com/krakenrf/gr-krakensdr) under their open license.
+Licensed under the GNU GPLv3.
