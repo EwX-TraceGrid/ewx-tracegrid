@@ -1,4 +1,4 @@
-# KrakenSDR Passive RF Monitor
+# Passive RF Monitor
 
 This is a lightweight Python script to passively monitor multiple radio frequencies using KrakenSDR (or 5 RTL-SDRs in independent mode).
 
