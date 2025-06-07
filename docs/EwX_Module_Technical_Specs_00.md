@@ -23,7 +23,7 @@ Lightweight, autonomous direction-finder for detecting and triangulating radio-e
 
 ## 🔧 Planned Integration
 
-- Triangulation software: adapted from KrakenSDR (GNU Radio)
+- Triangulation software: adapted from radio SDR (GNU Radio)
 - Blockchain logging: Ethereum L2 + EwX token auth
 - Swarm sync: time-aligned GPS + LoRa mesh
 
