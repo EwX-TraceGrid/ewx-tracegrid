@@ -1,4 +1,4 @@
-# Contributing to EwX TraceGrid
+# Contributing to EwX:TraceGrid
 
 We welcome all contributions from developers, engineers, and researchers who share our mission.
 
