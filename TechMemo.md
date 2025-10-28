@@ -2,7 +2,7 @@
 **EwX — Radio Monitoring across 25–1699 MHz**
 
 ![Repo Size](https://img.shields.io/github/repo-size/EwX-TraceGrid/ewx-tracegrid)
-![Last Commit](https://img.shields.io/github/last-commit/[EwX-TraceGrid/ewx-tracegrid](https://github.com/EwX-TraceGrid/ewx-tracegrid/blob/main/TechMemo.md))
+![Last Commit](https://github.com/EwX-TraceGrid/ewx-tracegrid/blob/main/TechMemo.md))
 
 ---
 
