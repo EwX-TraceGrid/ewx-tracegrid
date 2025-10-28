@@ -29,7 +29,7 @@ EwX: TraceGrid is an open-source SIGINT infrastructure for real-time detection, 
 - Build and maintain a drone/ground signal monitoring software
 - Enable on-chain access to location data via EwX token
 - Complete integration with server/cloud and mobile app
-- Participate in funding via Gitcoin / Juicebox
+- Participate in funding via Juicebox
 
 ---
 
