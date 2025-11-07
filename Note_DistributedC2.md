@@ -1,5 +1,7 @@
 # From Hardware Systems to Distributed C2
 ### How Edge AI and RF Intelligence Transform Counter-UAV Architecture
+![Repo Size](https://img.shields.io/github/repo-size/EwX-TraceGrid/ewx-tracegrid)
+![Last Commit](https://img.shields.io/github/last-commit/EwX-TraceGrid/ewx-tracegrid)
 
 ---
 
